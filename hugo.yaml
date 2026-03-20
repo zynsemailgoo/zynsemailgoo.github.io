@@ -1,0 +1,7 @@
+baseURL: "https://zynsemailgoo.github.io/"
+languageCode: "zh-cn"
+title: "我的博客"
+theme: "neopost"
+
+params:
+  theme: "light-purple"
